@@ -1,0 +1,13 @@
+D:\Windows Directories\OneDrive\Documents\School\Udemy\C# Intermediate - Classes, Interfaces and OOP\User\User\bin\Debug\netcoreapp3.1\User.exe
+D:\Windows Directories\OneDrive\Documents\School\Udemy\C# Intermediate - Classes, Interfaces and OOP\User\User\bin\Debug\netcoreapp3.1\User.deps.json
+D:\Windows Directories\OneDrive\Documents\School\Udemy\C# Intermediate - Classes, Interfaces and OOP\User\User\bin\Debug\netcoreapp3.1\User.runtimeconfig.json
+D:\Windows Directories\OneDrive\Documents\School\Udemy\C# Intermediate - Classes, Interfaces and OOP\User\User\bin\Debug\netcoreapp3.1\User.runtimeconfig.dev.json
+D:\Windows Directories\OneDrive\Documents\School\Udemy\C# Intermediate - Classes, Interfaces and OOP\User\User\bin\Debug\netcoreapp3.1\User.dll
+D:\Windows Directories\OneDrive\Documents\School\Udemy\C# Intermediate - Classes, Interfaces and OOP\User\User\bin\Debug\netcoreapp3.1\User.pdb
+D:\Windows Directories\OneDrive\Documents\School\Udemy\C# Intermediate - Classes, Interfaces and OOP\User\User\obj\Debug\netcoreapp3.1\User.csprojAssemblyReference.cache
+D:\Windows Directories\OneDrive\Documents\School\Udemy\C# Intermediate - Classes, Interfaces and OOP\User\User\obj\Debug\netcoreapp3.1\User.AssemblyInfoInputs.cache
+D:\Windows Directories\OneDrive\Documents\School\Udemy\C# Intermediate - Classes, Interfaces and OOP\User\User\obj\Debug\netcoreapp3.1\User.AssemblyInfo.cs
+D:\Windows Directories\OneDrive\Documents\School\Udemy\C# Intermediate - Classes, Interfaces and OOP\User\User\obj\Debug\netcoreapp3.1\User.csproj.CoreCompileInputs.cache
+D:\Windows Directories\OneDrive\Documents\School\Udemy\C# Intermediate - Classes, Interfaces and OOP\User\User\obj\Debug\netcoreapp3.1\User.dll
+D:\Windows Directories\OneDrive\Documents\School\Udemy\C# Intermediate - Classes, Interfaces and OOP\User\User\obj\Debug\netcoreapp3.1\User.pdb
+D:\Windows Directories\OneDrive\Documents\School\Udemy\C# Intermediate - Classes, Interfaces and OOP\User\User\obj\Debug\netcoreapp3.1\User.genruntimeconfig.cache

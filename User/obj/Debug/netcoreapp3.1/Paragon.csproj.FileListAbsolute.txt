@@ -1,0 +1,26 @@
+D:\Windows Directories\OneDrive\Documents\School\Udemy\C# Intermediate - Classes, Interfaces and OOP\User\User\bin\Debug\netcoreapp3.1\Paragon.exe
+D:\Windows Directories\OneDrive\Documents\School\Udemy\C# Intermediate - Classes, Interfaces and OOP\User\User\bin\Debug\netcoreapp3.1\Paragon.deps.json
+D:\Windows Directories\OneDrive\Documents\School\Udemy\C# Intermediate - Classes, Interfaces and OOP\User\User\bin\Debug\netcoreapp3.1\Paragon.runtimeconfig.json
+D:\Windows Directories\OneDrive\Documents\School\Udemy\C# Intermediate - Classes, Interfaces and OOP\User\User\bin\Debug\netcoreapp3.1\Paragon.runtimeconfig.dev.json
+D:\Windows Directories\OneDrive\Documents\School\Udemy\C# Intermediate - Classes, Interfaces and OOP\User\User\bin\Debug\netcoreapp3.1\Paragon.dll
+D:\Windows Directories\OneDrive\Documents\School\Udemy\C# Intermediate - Classes, Interfaces and OOP\User\User\bin\Debug\netcoreapp3.1\Paragon.pdb
+D:\Windows Directories\OneDrive\Documents\School\Udemy\C# Intermediate - Classes, Interfaces and OOP\User\User\obj\Debug\netcoreapp3.1\Paragon.csprojAssemblyReference.cache
+D:\Windows Directories\OneDrive\Documents\School\Udemy\C# Intermediate - Classes, Interfaces and OOP\User\User\obj\Debug\netcoreapp3.1\Paragon.AssemblyInfoInputs.cache
+D:\Windows Directories\OneDrive\Documents\School\Udemy\C# Intermediate - Classes, Interfaces and OOP\User\User\obj\Debug\netcoreapp3.1\Paragon.AssemblyInfo.cs
+D:\Windows Directories\OneDrive\Documents\School\Udemy\C# Intermediate - Classes, Interfaces and OOP\User\User\obj\Debug\netcoreapp3.1\Paragon.csproj.CoreCompileInputs.cache
+D:\Windows Directories\OneDrive\Documents\School\Udemy\C# Intermediate - Classes, Interfaces and OOP\User\User\obj\Debug\netcoreapp3.1\Paragon.dll
+D:\Windows Directories\OneDrive\Documents\School\Udemy\C# Intermediate - Classes, Interfaces and OOP\User\User\obj\Debug\netcoreapp3.1\Paragon.pdb
+D:\Windows Directories\OneDrive\Documents\School\Udemy\C# Intermediate - Classes, Interfaces and OOP\User\User\obj\Debug\netcoreapp3.1\Paragon.genruntimeconfig.cache
+D:\Windows Directories\OneDrive\Documents\School\Summer 2020 (Self)\Paragon\User\bin\Debug\netcoreapp3.1\Paragon.exe
+D:\Windows Directories\OneDrive\Documents\School\Summer 2020 (Self)\Paragon\User\bin\Debug\netcoreapp3.1\Paragon.deps.json
+D:\Windows Directories\OneDrive\Documents\School\Summer 2020 (Self)\Paragon\User\bin\Debug\netcoreapp3.1\Paragon.runtimeconfig.json
+D:\Windows Directories\OneDrive\Documents\School\Summer 2020 (Self)\Paragon\User\bin\Debug\netcoreapp3.1\Paragon.runtimeconfig.dev.json
+D:\Windows Directories\OneDrive\Documents\School\Summer 2020 (Self)\Paragon\User\bin\Debug\netcoreapp3.1\Paragon.dll
+D:\Windows Directories\OneDrive\Documents\School\Summer 2020 (Self)\Paragon\User\bin\Debug\netcoreapp3.1\Paragon.pdb
+D:\Windows Directories\OneDrive\Documents\School\Summer 2020 (Self)\Paragon\User\obj\Debug\netcoreapp3.1\Paragon.csprojAssemblyReference.cache
+D:\Windows Directories\OneDrive\Documents\School\Summer 2020 (Self)\Paragon\User\obj\Debug\netcoreapp3.1\Paragon.AssemblyInfoInputs.cache
+D:\Windows Directories\OneDrive\Documents\School\Summer 2020 (Self)\Paragon\User\obj\Debug\netcoreapp3.1\Paragon.AssemblyInfo.cs
+D:\Windows Directories\OneDrive\Documents\School\Summer 2020 (Self)\Paragon\User\obj\Debug\netcoreapp3.1\Paragon.csproj.CoreCompileInputs.cache
+D:\Windows Directories\OneDrive\Documents\School\Summer 2020 (Self)\Paragon\User\obj\Debug\netcoreapp3.1\Paragon.dll
+D:\Windows Directories\OneDrive\Documents\School\Summer 2020 (Self)\Paragon\User\obj\Debug\netcoreapp3.1\Paragon.pdb
+D:\Windows Directories\OneDrive\Documents\School\Summer 2020 (Self)\Paragon\User\obj\Debug\netcoreapp3.1\Paragon.genruntimeconfig.cache
